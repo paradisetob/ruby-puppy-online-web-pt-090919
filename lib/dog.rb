@@ -7,3 +7,6 @@ class dog
     @dog=dog
   end
 end
+
+dog.new="pluto"
+dog.new=""
