@@ -12,4 +12,4 @@ dog.new="pluto"
 dog.new="fido"
 dog.new="maddy"
 
-dog.class_variable_set
+dog.class_variable_set = dog.all
