@@ -9,4 +9,5 @@ class dog
 end
 
 dog.new="pluto"
-dog.new=""
+dog.new="fido"
+dog.new=
