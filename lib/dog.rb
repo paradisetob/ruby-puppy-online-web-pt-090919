@@ -3,4 +3,7 @@ class dog
 
   attr_accessor :name
 
-  def initializes
+  def initializes(dog.new="snoopy")
+    @dog=dog
+  end
+end
