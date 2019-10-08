@@ -10,4 +10,4 @@ end
 
 dog.new="pluto"
 dog.new="fido"
-dog.new=
+dog.new="maddy"
