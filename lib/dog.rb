@@ -11,3 +11,5 @@ end
 dog.new="pluto"
 dog.new="fido"
 dog.new="maddy"
+
+dog.set
